@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+p {
+    display: block;
+    margin: 0;
+}
+.vermelho {
+    color: rgb(241, 7, 7);
+    font-size: 19px;
+    
+}
+
+.preto {
+    color: black;
+    font-size: 19px;
+}
+
+.verde {
+    color: rgb(25, 116, 25);
+    font-size: 19px;
+}
+
+.azul {
+    color: blue;
+    font-size: 19px;
+}
+
+.preto {
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+}
